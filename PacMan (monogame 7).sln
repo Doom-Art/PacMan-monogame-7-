@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PacMan (monogame 7)", "PacMan (monogame 7).csproj", "{76AE5A7A-4691-49E3-BC79-371D32BB49BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{76AE5A7A-4691-49E3-BC79-371D32BB49BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76AE5A7A-4691-49E3-BC79-371D32BB49BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76AE5A7A-4691-49E3-BC79-371D32BB49BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76AE5A7A-4691-49E3-BC79-371D32BB49BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {32A93A1F-D5F8-4EBA-8F57-85934022D391}
+	EndGlobalSection
+EndGlobal
